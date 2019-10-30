@@ -1,6 +1,8 @@
 # sumthing
 Tämä on markdown-tekstiä
 
+* Tämä on pisteytetty teksti
+
 # Tämä on pääotsikko
 ## Tämä on alaotsikko
 ### Tämä vielä alempi otsikko
